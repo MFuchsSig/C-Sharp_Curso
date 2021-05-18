@@ -1,0 +1,13 @@
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\obj\Debug\netcoreapp3.1\Curso_C-sharp.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\obj\Debug\netcoreapp3.1\Curso_C-sharp.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\obj\Debug\netcoreapp3.1\Curso_C-sharp.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\obj\Debug\netcoreapp3.1\Curso_C-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\bin\Debug\netcoreapp3.1\Curso_C-sharp.exe
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\bin\Debug\netcoreapp3.1\Curso_C-sharp.deps.json
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\bin\Debug\netcoreapp3.1\Curso_C-sharp.runtimeconfig.json
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\bin\Debug\netcoreapp3.1\Curso_C-sharp.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\bin\Debug\netcoreapp3.1\Curso_C-sharp.dll
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\bin\Debug\netcoreapp3.1\Curso_C-sharp.pdb
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\obj\Debug\netcoreapp3.1\Curso_C-sharp.dll
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\obj\Debug\netcoreapp3.1\Curso_C-sharp.pdb
+C:\Users\Matheus\source\repos\Curso_C-sharp\Curso_C-sharp\obj\Debug\netcoreapp3.1\Curso_C-sharp.genruntimeconfig.cache
